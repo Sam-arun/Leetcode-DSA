@@ -8,4 +8,6 @@ Also, there are open source implementations for basic data structs and algorithm
 
 | # | Title | Solution | Basic idea (One line) |
 |---| ----- | -------- | --------------------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Java](https://github.com/qiyuangong/leetcode/blob/master/java/001_Two_Sum.java) | 1. Hash O(n) and O(n) space.<br>2. Sort and search with two points O(n) and O(1) space. |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Java](https://github.com/Sam-arun/Leetcode-DSA/blob/137514ec5bfd3f32bd928296f4852d5a17990684/Questions/2sum.java) | 1. Hash O(n) and O(n) space.<br>2. Sort and search with two points O(n) and O(1) space. |
+
+

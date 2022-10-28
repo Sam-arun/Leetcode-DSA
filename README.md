@@ -12,4 +12,5 @@ Also, there are open source implementations for basic data structs and algorithm
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) |  [Java](https://github.com/Sam-arun/Leetcode-DSA/blob/master/Questions/Single_Number.java) | 1. xor O(n) and O(1) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/single-number/) |  [Java](https://github.com/Sam-arun/Leetcode-DSA/blob/master/Questions/Best%20time%20to%20Buy%20and%20Sell%20a%20Stock.java) |  |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |  [Java](https://github.com/Sam-arun/Leetcode-DSA/blob/master/Questions/Movezero.java) |  |
+| 3 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/move-zeroes/description/) |  [Java](https://github.com/Sam-arun/Leetcode-DSA/blob/master/Questions/Longest%20Substring%20without%20Repeating%20Characters.java) |  |
 

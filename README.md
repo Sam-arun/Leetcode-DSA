@@ -13,4 +13,4 @@ Also, there are open source implementations for basic data structs and algorithm
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/single-number/) |  [Java](https://github.com/Sam-arun/Leetcode-DSA/blob/master/Questions/Best%20time%20to%20Buy%20and%20Sell%20a%20Stock.java) |  |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) |  [Java](https://github.com/Sam-arun/Leetcode-DSA/blob/master/Questions/Movezero.java) |  |
 | 3 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/move-zeroes/description/) |  [Java](https://github.com/Sam-arun/Leetcode-DSA/blob/master/Questions/Longest%20Substring%20without%20Repeating%20Characters.java) |Hash O(n) and O(n) space.|
-| 4 | [Plus One](https://leetcode.com/problems/move-zeroes/description/) |  [Java](https://leetcode.com/problems/plus-one/description/?envType=daily-question&envId=2026-01-01) ||
+| 4 | [Plus One](https://leetcode.com/problems/move-zeroes/description/) |  [Python](https://leetcode.com/problems/plus-one/description/?envType=daily-question&envId=2026-01-01) ||
